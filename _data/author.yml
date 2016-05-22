@@ -1,0 +1,68 @@
+# Author settings
+name: 杨熠
+title: 未来的数据科学家
+address: 中国, 北京
+email: yiyangxianyi@gmail.com
+github: jasperyang
+gavatar: /assets/img/avatar.JPG
+workHistory:
+- work3:
+  company: 上海大银幕网络科技有限公司
+  location: 中国，上海
+  title: Android 开发工程师
+  started: 2015
+  duration: (2015.10 - Present)
+  description: 开发和维护 "公证电影" App
+
+- work2:
+  company: 比亚迪精密制造上海分公司
+  location: 中国，上海
+  title: Android 开发工程师
+  started: 2014
+  duration: (2014.8 - 2015.8)
+  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
+
+- work1:
+  company: 合肥卓远电子科技有限公司
+  location: 中国, 合肥
+  title: Linux 程序员
+  started: 2013
+  duration: (2013.6 - 2013.9)
+  description: 在嵌入式 Linux 环境下开发程序 (信号发生器，监控摄像头)
+
+educationHistory:
+- education1:
+  organization: 兰州大学(LZU)
+  degree: 学士
+  major: 计算机科学与技术
+  started: 2012
+  duration: (2012.9 - 2016.7)
+  description: 大学期间学了很多零零散散的CS知识，但不甘心做一个大自然的搬运工~
+- education2:
+  organization: 北京邮电大学(BUTP)
+languages:
+- language1:
+  name: 中文
+  proficiency: Native
+- language2:
+  name: English
+  proficiency: Limit
+programmingSkills:
+- Java:
+  name: Java/Android
+  percentage: 90%
+- Bash:
+  name: Bash Shell
+  percentage: 90%
+- CPP:
+  name: C/C++
+  percentage: 70%
+- PHP:
+  name: PHP
+  percentage: 30%
+- Python:
+  name: Python
+  percentage: 30%
+- Kotlin:
+  name: Kotlin
+  percentage: 70%
