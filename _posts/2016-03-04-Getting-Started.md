@@ -5,6 +5,7 @@ time: 2016年03月05日 星期五
 location: 上海
 pulished: true
 excerpt_separator: "```"
+category: About Me
 ---
 
 我的第一篇 github 博客, 本博客使用 [jekyll](http://jekyll.bootcss.com/) + [bootstrap](http://v3.bootcss.com) 搭建!

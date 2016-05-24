@@ -1,13 +1,14 @@
 ---
 layout: post_layout
-title: jekyll入门与进阶
-time: 2016年05月22日
+title: Jekyll入门与进阶
+time: 2016年05月22日 星期日
 location: 兰州大学
-published: true
-excerpt_separator: "#"
-
+published: true 
+excerpt_separator: "#" 
+category: Git
 ---
-###说点废话
+
+说点废话
 
 Jekyll + GitHub Pages 用来写博客是一个在我看来很方便很牛的选择（原谅我的愚昧无知~）。像我这种程序小白猿最喜欢的就是找一个能够稍微改改就能拿来给自己用的看上去很不错的东西，今天我就来教教大家搭建一个属于自己的技术博客（简直不能更简单）。
 
@@ -273,5 +274,5 @@ __[配置]__
 	
 ###PS:
 大家还可以去看看大牛阮一峰的博文。
-
+另外我发现了一个叫on_1y的大牛写的十分详细，大家可以去看看--->[使用 GitHub, Jekyll 打造自己的免费独立博客](http://blog.csdn.net/on_1y/article/details/19259435)
 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)

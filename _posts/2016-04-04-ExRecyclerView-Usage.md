@@ -9,7 +9,7 @@ excerpt_separator: "#"
 [ExRecyclerView](https://github.com/liungkejin/ExRecyclerView)
 *ExRecyclerView 使用 Kotlin 编写*
 
-![demo](/assets/img/kejin.png)
+![demo](/assets/demo/exrecyclerview-demo.gif)
 
 很多时候我们在使用 RecyclerView 时, 总是会碰到需要设置一个 header 或者 footer 的情况,
 比如我们要加一个显示加载更多的footer，跟随 RecyclerView 一起滑动的 header, 等等,

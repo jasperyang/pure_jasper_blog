@@ -5,6 +5,7 @@ time: 2016年04月03日 星期天
 location: 上海
 pulished: true
 excerpt_separator: "#"
+category: Git
 ---
 
 
