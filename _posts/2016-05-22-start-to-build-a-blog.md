@@ -274,5 +274,6 @@ __[配置]__
 	
 ###PS:
 大家还可以去看看大牛阮一峰的博文。
+
 另外我发现了一个叫on_1y的大牛写的十分详细，大家可以去看看--->[使用 GitHub, Jekyll 打造自己的免费独立博客](http://blog.csdn.net/on_1y/article/details/19259435)
 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
