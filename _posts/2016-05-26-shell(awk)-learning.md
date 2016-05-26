@@ -1,4 +1,16 @@
-#shell(awk) learning（大白入门）
+---
+layout: post_layout
+title: shell学习----awk learning
+time: 2016年04月06日 星期四
+location: 兰州大学
+published: true
+excerpt_separator: "#"
+category: shell
+---
+有一天，老师让我给分布式文件系统做测试，最好用脚本写一个自动化测试并将数据结果存储在文件中用于绘图。然后我就开始深入学习了shell语言这门很牛逼哄哄的技能，这篇文章是讲解的是其中一个命令awk。这个命令功能相当强大，几乎相当于一个完善的语言系统了。好了，废话到此结束~
+
+
+#shell学习----awk learning（大白入门）
 	这是个十分牛逼的命令，也算的上一门处理文本的语言了。
 ###原理
 	awk就是把文件逐行的读入，以空格为默认分隔符将每行切片，切开的部分再进行各种分析处理
