@@ -12,7 +12,7 @@ category: Git
 
 Jekyll + GitHub Pages 用来写博客是一个在我看来很方便很牛的选择（原谅我的愚昧无知~）。像我这种程序小白猿最喜欢的就是找一个能够稍微改改就能拿来给自己用的看上去很不错的东西，今天我就来教教大家搭建一个属于自己的技术博客（简直不能更简单）。
 
-###开始前，看看你的配置是不是符合要求~
+### 开始前，看看你的配置是不是符合要求~
 
 __[配置]__
 
@@ -24,7 +24,7 @@ __[配置]__
 
 如果你不符合要求，就快去装吧，安装起来都很简单的。自己去[google](www.google.com)吧
 
-###安装 Jekyll
+### 安装 Jekyll
 很简单，只需要在终端中输入
 
 	$ gem install jekyll
@@ -32,14 +32,14 @@ __[配置]__
 	
 以上的更详细过程大家可以点入 >> [传送门](http://jekyllcn.com/docs/installation/)
 
-###Jekyll 模板
+### Jekyll 模板
 我想大家应该和我一样对于html5+css3有惯性头大偏移症，所以你需要一个简洁漂亮的模板（说不要的你可以走了）
 
 [Jekyll Themes](http://jekyllthemes.org/)去这儿你可以看到很多高大上的你想要的，怎么用~？先别急，往下看。
 
 我选择了一个简洁明亮的模板叫做[easy_pure_blog](http://jekyllthemes.org/themes/easy-pure-blog/)，下面我就这个模板开始讲解~
 
-##-->进入正题啦（jekyll + easy_pure_blog + GitHub Pages 完成一个博客搭建）
+## -->进入正题啦（jekyll + easy_pure_blog + GitHub Pages 完成一个博客搭建）
 
 
 1. 下载模板
@@ -284,7 +284,7 @@ __[配置]__
 	
 	以上命令都键入后，你可以登录`https://***.github.com/pure_jasper_blog`，和你本地一模一样，大功告成！（***是你的 Git 用户名）
 	
-###PS:
+### PS:
 
 大家还可以去看看大牛阮一峰的博文。
 
