@@ -1,5 +1,5 @@
-# Kejin
+# Jasper Yang
 
-> 自己选的路，跪着也要走下去
+read my blog
 
-![Blog](/assets/img/blog.png)
+http://jasperyang.github.io/pure_jasper_blog/
